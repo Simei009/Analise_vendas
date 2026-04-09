@@ -10,11 +10,11 @@ Este projeto tem como objetivo analisar o dado de vendas, utilizando SQL e Pytho
 - Postgre
 
 ### Analise dos resultados
-1 - Foi feita a extração do arquivo vendas_desafio.csv 
-2 - Tratamento e Manipulação do dados
-3 - Criamos o Banco de dados nos SGBDs Mysql(workbench) e Postgre com todos dados das colunas
-4 - Fizemos a conexão com o Banco e foi feito a iteração de todos os dados usando a função - insert into
-5 - Foi feito Analise dos dados implementando consultas:
+- 1 - Foi feita a extração do arquivo vendas_desafio.csv 
+- 2 - Tratamento e Manipulação do dados
+- 3 - Criamos o Banco de dados nos SGBDs Mysql(workbench) e Postgre com todos dados das colunas
+- 4 - Fizemos a conexão com o Banco e foi feito a iteração de todos os dados usando a função - insert into
+- 5 - Foi feito Analise dos dados implementando consultas:
 - Faturamento total por produto
 - Faturameno total por categoria
 - Ticket medio por cliente
