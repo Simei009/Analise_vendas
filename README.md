@@ -15,13 +15,13 @@ Este projeto tem como objetivo analisar o dado de vendas, utilizando SQL e Pytho
 - 3 - Criamos o Banco de dados nos SGBDs Mysql(workbench) e Postgre com todos dados das colunas
 - 4 - Fizemos a conexão com o Banco e foi feito a iteração de todos os dados usando a função - insert into
 - 5 - Foi feito Analise dos dados implementando consultas:
--- Faturamento total por produto
--- Faturameno total por categoria
--- Ticket medio por cliente
--- Faturamento total por vendedor
--- Faturamento total por mês
--- 5 produtos mais vendidos
--- Cidade de maior faturamento
--- Cliente que mais comprou
+   - Faturamento total por produto
+  - Faturameno total por categoria
+  - Ticket medio por cliente
+  - Faturamento total por vendedor
+  - Faturamento total por mês
+  - 5 produtos mais vendidos
+  - Cidade de maior faturamento
+  - Cliente que mais comprou
 
 O projeto é dividido em três partes: SQL, Python e Insights de Negócio.
